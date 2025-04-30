@@ -1,0 +1,5 @@
+# ignore every __pycache__ python cache everywhere in the project
+**/__pycache__/
+
+# ignore intellisense .idea folders everywhere
+**/.idea/
